@@ -46,20 +46,20 @@ h1 {
 }
 
 .top-banner {
-  background-image: url("images/top-banner.png");
+  background-image: url("top-banner.png");
   background-repeat: no-repeat;
   box-sizing: border-box;
 }
 
 .dream-big {
-  background-image: url("images/dream-bg.png");
+  background-image: url("dream-bg.png");
   background-repeat: no-repeat;
   background-position: right;
   box-sizing: border-box;
 }
 
 .project-area {
-  background-image: url("images/exp-bg.png");
+  background-image: url("exp-bg.png");
   background-repeat: no-repeat;
   background-position: left;
   box-sizing: border-box;
